@@ -1,0 +1,33 @@
+Projeto 1: Análise Preditiva de Vendas
+
+Descrição
+Utilizar modelos de aprendizado de máquina para prever vendas futuras com base em dados históricos.
+
+Desenvolvimento
+Coleta e Preparação de Dados
+
+Coletar dados históricos de vendas.
+Limpar e pré-processar os dados (lidar com valores ausentes, formatação de datas, etc.).
+Criar features temporais (mês, trimestre, ano).
+Análise Exploratória de Dados (EDA)
+
+Analisar as tendências de vendas ao longo do tempo.
+Identificar padrões sazonais e eventos especiais que possam afetar as vendas.
+Divisão do Dataset
+
+Dividir os dados em conjuntos de treinamento e teste.
+Escolha e Treinamento do Modelo
+
+Testar diferentes modelos (Regressão Linear, Árvores de Decisão, Random Forest, etc.).
+Selecionar o melhor modelo com base em métricas de avaliação.
+Avaliação do Modelo
+
+Utilizar métricas como RMSE (Root Mean Squared Error) e R² para avaliar a precisão do modelo.
+Implementação e Visualização
+
+Implementar o modelo em um ambiente de produção.
+Criar visualizações para comparar previsões com dados reais.
+
+<b> Melhoria </b>
+Implementar técnicas de ensemble learning (ex. Gradient Boosting).
+Utilizar modelos de séries temporais como ARIMA ou Prophet.
